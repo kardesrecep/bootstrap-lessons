@@ -1,0 +1,9 @@
+.text-primary{
+    color: blueviolet !important
+    ;
+}
+.bg-primary{
+    background-color: chartreuse !important ;
+    text-align: center;
+    color: rgb(226, 92, 43);
+}
